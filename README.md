@@ -7,6 +7,12 @@ matlab miscellaneous image processing tool
 ## bayersampling
  samples pixel value associated bayer color filter array
 
+## compLumChrom
+ compose luminance (mean) and chrominance to rgb image
+
+ ## decompLumChrom
+  decompose rgb image to luminance (mean) and chrominance
+
 ## eachchannel
  allows us to apply function for each channel
 
